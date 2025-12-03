@@ -1,3 +1,4 @@
 Flask
 Flask-Bcrypt
 Flask-SQLAlchemy
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
